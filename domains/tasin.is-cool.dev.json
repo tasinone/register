@@ -1,0 +1,26 @@
+{
+    "description": "Will be used on my personal blogger website where I write about tech.",
+    
+    "domain": "is-cool.dev",
+    "subdomain": "tasin",
+    
+    "owner": {
+        "repo": "https://github.com/tasinone/register",
+        "email": "tasin.mzbss@slmail.me"
+    },
+    
+    "record": {
+        "A": [
+            "216.239.32.21",
+            "216.239.34.21",
+            "216.239.36.21",
+            "216.239.38.21"
+        ],
+        "CNAME": {
+            "www": "ghs.google.com",
+            "4fh7dwav5wga": "gv-daoiekekid65rc.dv.googlehosted.com"
+        }
+    },
+    
+    "proxied": false
+}
